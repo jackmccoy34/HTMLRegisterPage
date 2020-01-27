@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+}
+
+.setup{
+  position: fixed;
+  top: 250px;
+  right: 250px;
+  left: 250px;
+    padding: 50px;
+    margin: auto;
+    border: 5px solid;
+    text-align: center;
+    background-color: cornsilk;
+}
+
+.nav-links{
+    text-align: right;
+    background-color: white;
+}
+
+.social-image {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#social a {
+    text-decoration: 0;
+}
